@@ -1,0 +1,6 @@
+{
+  "name": "coderot",
+  "description": "Scans your GitHub repos and shows which files haven't been touched in X months, which functions are 'dead' (never called), and gives your project an overall 'rot score' with a visual decay CLI aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
