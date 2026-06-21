@@ -17,7 +17,7 @@ CODEROT is a high-fidelity, client-side React application that diagnoses "code r
 
 1. **Clone & Setup**:
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/trixxexe/coderot.git>
    cd coderot
    npm install
    ```
